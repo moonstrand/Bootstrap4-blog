@@ -1,0 +1,31 @@
+* p, * li{
+    line-height: 1.8;
+}
+
+.navbar {
+    background-color: #00cc99;
+}
+
+.collapse {
+    justify-content: flex-end;
+}
+
+.breadcrumb {
+    background: transparent;
+}
+
+.color-hexschool {
+    color: #00cc99 !important;
+}
+
+.card-body p {
+    line-height: 1.5;
+}
+
+.media-body textarea {
+    resize: none;
+}
+
+footer a:hover {
+    color: #037457 !important;
+}
